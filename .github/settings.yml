@@ -1,0 +1,17 @@
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: TestSettingsBot-new2
+
+  # A short description of the repository that will show up on GitHub
+  description: A short description of the repository that will show up on the GitHub - Probot
+  # A URL with more information about the repository
+  homepage: https://github.com
+  # A comma-separated list of topics to set on the repository
+  topics: github, probot, settingsbot, testtopic
+
+  # Either `true` to make the repository private, or `false` to make it public.
+  private: true 
