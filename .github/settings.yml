@@ -17,3 +17,8 @@ repository:
   private: false
   # Updates the default branch for this repository.
   default_branch: master
+labels:
+  - name: test-label
+    # If including a `#`, make sure to wrap it with quotes!
+    color: '000b75'
+    description: New functionality3.
